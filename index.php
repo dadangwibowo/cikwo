@@ -151,6 +151,7 @@ _________________________________________________________ -->
         <div class="container">
             <div class="col-md-12">
                 <h1>Menu Favorit</h1>
+                <h5>pemesanan online Hanya untuk memesan oleh - oleh</h5>
             </div>
         </div>
     </div>
@@ -275,10 +276,10 @@ _________________________________________________________ -->
  <div id="copyright">
     <div class="container">
         <div class="col-md-6">
-            <p class="pull-left">© Cikwo Coffe-2021</p>
+            <p class="pull-left">© Cikwo Coffe-2023</p>
         </div>
         <div class="col-md-6">
-            <p class="pull-right">&copy; 2022, Andi Apriansah
+            <p class="pull-right">&copy; 2023, Andi Apriansah
             </p>
         </div>
     </div>

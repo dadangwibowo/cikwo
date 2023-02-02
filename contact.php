@@ -1,3 +1,6 @@
+<?php 
+error_reporting(0);
+?>
 <!DOCTYPE html>
 <html lang="en">
 
@@ -186,7 +189,7 @@
  <div id="copyright">
     <div class="container">
         <div class="col-md-6">
-            <p class="pull-left">© Cikwo Coffe & Resto 2021</p>
+            <p class="pull-left">© Cikwo Coffe & Resto 2023</p>
         </div>
         <div class="col-md-6">
             <p class="pull-right">Alright Reserved by 

@@ -18,7 +18,7 @@
     <meta name="keywords" content="">
 
     <title>
-        E-Del : Information Delivery Order Tel-U
+        Checkout
     </title>
 
     <meta name="keywords" content="">
@@ -250,10 +250,10 @@
  <div id="copyright">
     <div class="container">
         <div class="col-md-6">
-            <p class="pull-left">© E-DEL 2018</p>
+        <p class="pull-left">© Cikwo Coffe 2023</p>
         </div>
         <div class="col-md-6">
-            <p class="pull-right">Alright Reserved by 11Fingers
+            <p class="pull-right">&copy; 2023, Andi Apriansah
             </p>
         </div>
     </div>
